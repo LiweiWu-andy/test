@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="29205bd7-091e-4415-ba43-67a06e08785a" name="kafkaDemo">
+        <fileTransfer rootFolder="/home/andy" accessType="SFTP" host="62.234.132.72" port="22" sshConfigId="bb6ce4d0-9d02-430a-8e22-2e231dd28318" sshConfig="andy@62.234.132.72:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
